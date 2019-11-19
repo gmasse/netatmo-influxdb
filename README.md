@@ -13,7 +13,7 @@ python netatmo-influxdb.py
 ```
 
 ## Cron
-To run the script every minute, `crontab -e`
+To run the script periodically, `crontab -e`
 ```
 */5 *   * * *       ~/netatmo-influxdb/venv/bin/python3 ~/netatmo-influxdb/netatmo-influxdb.py
 ```
