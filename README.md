@@ -1,5 +1,7 @@
 # netatmo-influxdb
 
+Push Netatmo public weather data into InfluxDB
+
 ## Installation
 ```
 git clone https://github.com/gmasse/netatmo-influxdb.git
